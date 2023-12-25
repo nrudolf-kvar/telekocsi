@@ -38,6 +38,6 @@ with open('utasuzenetek.txt', 'w', encoding='windows-1252') as fajl:
         if len(telekocsi) > 0:
             print(f'\t{az}: Rendszám: {telekocsi[0][2]} Telefonszám: {telekocsi[0][3]}', file=fajl)
         else:
-            print(f'\t{az}: sajnos nem sikerült autót találni', file=fajl)
+            print(f'\t{az}: Sajnos nem sikerült autót találni', file=fajl)
 
 
