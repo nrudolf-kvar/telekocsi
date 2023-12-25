@@ -1,0 +1,1 @@
+Szoftverüzemeltető programozási vizsgafeladat megoldása Pyton nyelven.
